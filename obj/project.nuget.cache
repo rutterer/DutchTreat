@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "b79r4PitGgulIqZcViSkKb7t/nPDheYan3TbwE1mE+zJyyoboT5ieR+tWJ0u9emAVieqC86uQd98N3sUbwTY8g==",
+  "dgSpecHash": "Pddr7ehrIkvghi5n4rk3KSqbm6tEUP/Z/zJLA01G8afYC64CpjEFkbgZz1fqf0odWqChL4NMZfb7793pP7O4dQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\rutte\\Desktop\\code\\Pluralsight\\Jetsons_Stack_Course\\DutchTreat\\DutchTreat.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rutte\\.nuget\\packages\\odetocode.usenodemodules\\3.0.0\\odetocode.usenodemodules.3.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
