@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fNQWzfoNhmfSYJXGFRsIvwdXK1fhzAhpyNdIYbl0UjZpZ/sjH1V8kt4kuPYVNhQEaUt31g0QtH1kfGCmHdSlcw==",
+  "dgSpecHash": "E9ayX7reudqov/YA+53i5e/LnlO0wCgJ2A4TtzalfIcFwxzJQgKvFUt2BZZRiv/qfJl73pYqVWKbIOfN+tRmyg==",
   "success": true,
   "projectFilePath": "C:\\Users\\rutte\\Desktop\\code\\Pluralsight\\Jetsons_Stack_Course\\DutchTreat\\DutchTreat.csproj",
   "expectedPackageFiles": [
@@ -43,6 +43,7 @@
     "C:\\Users\\rutte\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.5.0\\microsoft.identitymodel.tokens.5.5.0.nupkg.sha512",
     "C:\\Users\\rutte\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\rutte\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\rutte\\.nuget\\packages\\microsoft.typescript.msbuild\\3.8.3\\microsoft.typescript.msbuild.3.8.3.nupkg.sha512",
     "C:\\Users\\rutte\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\rutte\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\rutte\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
