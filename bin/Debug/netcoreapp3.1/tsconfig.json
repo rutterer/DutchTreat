@@ -1,8 +1,23 @@
 {
-	"include": [ "wwwroot/ts/**/*.ts" ],
-	"compilerOptions": {
-		"target": "ES5",
-		"sourceMap": true
-	},
-	"compileOnSave": true
+  "compileOnSave": false,
+  "compilerOptions": {
+    "baseUrl": "./",
+    "outDir": "./wwwroot/clientapp/out-tsc/app",
+    "sourceMap": true,
+    "declaration": false,
+    "downlevelIteration": true,
+    "experimentalDecorators": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "importHelpers": true,
+    "target": "es2015",
+    "lib": [
+      "es2018",
+      "dom"
+    ]
+  },
+  "angularCompilerOptions": {
+    "fullTemplateTypeCheck": true,
+    "strictInjectionParameters": true
+  }
 }

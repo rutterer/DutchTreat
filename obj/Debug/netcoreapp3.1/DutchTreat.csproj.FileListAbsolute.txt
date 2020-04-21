@@ -92,4 +92,14 @@ C:\Users\rutte\Desktop\code\Pluralsight\Jetsons_Stack_Course\DutchTreat\bin\Debu
 C:\Users\rutte\Desktop\code\Pluralsight\Jetsons_Stack_Course\DutchTreat\bin\Debug\netcoreapp3.1\tsconfig.json
 C:\Users\rutte\Desktop\code\Pluralsight\Jetsons_Stack_Course\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.csproj.CoreCompileInputs.cache
 C:\Users\rutte\Desktop\code\Pluralsight\Jetsons_Stack_Course\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rutte\Desktop\code\Pluralsight\Jetsons_Stack_Course\DutchTreat\bin\Debug\netcoreapp3.1\angular.json
+C:\Users\rutte\Desktop\code\Pluralsight\Jetsons_Stack_Course\DutchTreat\bin\Debug\netcoreapp3.1\tsconfig.app.json
+C:\Users\rutte\Desktop\code\Pluralsight\Jetsons_Stack_Course\DutchTreat\bin\Debug\netcoreapp3.1\dutch-app\angular.json
+C:\Users\rutte\Desktop\code\Pluralsight\Jetsons_Stack_Course\DutchTreat\bin\Debug\netcoreapp3.1\dutch-app\e2e\tsconfig.json
+C:\Users\rutte\Desktop\code\Pluralsight\Jetsons_Stack_Course\DutchTreat\bin\Debug\netcoreapp3.1\dutch-app\package-lock.json
+C:\Users\rutte\Desktop\code\Pluralsight\Jetsons_Stack_Course\DutchTreat\bin\Debug\netcoreapp3.1\dutch-app\package.json
+C:\Users\rutte\Desktop\code\Pluralsight\Jetsons_Stack_Course\DutchTreat\bin\Debug\netcoreapp3.1\dutch-app\tsconfig.app.json
+C:\Users\rutte\Desktop\code\Pluralsight\Jetsons_Stack_Course\DutchTreat\bin\Debug\netcoreapp3.1\dutch-app\tsconfig.json
+C:\Users\rutte\Desktop\code\Pluralsight\Jetsons_Stack_Course\DutchTreat\bin\Debug\netcoreapp3.1\dutch-app\tsconfig.spec.json
+C:\Users\rutte\Desktop\code\Pluralsight\Jetsons_Stack_Course\DutchTreat\bin\Debug\netcoreapp3.1\dutch-app\tslint.json
 C:\Users\rutte\Desktop\code\Pluralsight\Jetsons_Stack_Course\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.csprojAssemblyReference.cache

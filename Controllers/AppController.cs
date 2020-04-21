@@ -61,15 +61,7 @@ namespace DutchTreat.Controllers
         [Authorize]
         public IActionResult Shop()
         {
-            var results = _repository.GetAllProducts();
-            
-            //Or, write it this way: 
-            //
-            //var results = _context.Products
-            //    .OrderBy(p => p.Category)
-            //    .ToList();
-
-            return View(results);
+            return View();
         }
     }
 }
