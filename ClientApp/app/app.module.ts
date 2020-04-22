@@ -8,17 +8,17 @@ import { DataService } from './shared/dataService';
 
 
 @NgModule({
-  declarations: [
+    declarations: [
         AppComponent,
         ProductList
-  ],
-  imports: [
-      BrowserModule,
-      HttpClientModule 
-  ],
+    ],
+    imports: [
+        BrowserModule,
+        HttpClientModule 
+    ],
     providers: [
         DataService
     ],
-  bootstrap: [AppComponent]
+    bootstrap: [AppComponent]
 })
 export class AppModule { }
