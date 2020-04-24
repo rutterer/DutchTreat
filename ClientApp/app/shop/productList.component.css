@@ -5,7 +5,7 @@
     border: solid 1px black;
 }
 
-.product-info card product-name {
+.product-info .product-name {
     font-size: large;
     font-weight: bold;
 }
